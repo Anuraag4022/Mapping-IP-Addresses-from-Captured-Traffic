@@ -42,7 +42,7 @@ Using the Command Line
 2. Update the script's `pcap_file` variable with the path to your PCAP file.
 3. Execute the script:
    ```bash
-   python script.py
+   traffic.py
    ```
 
 Using VS Code
